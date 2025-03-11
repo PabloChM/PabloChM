@@ -1,8 +1,8 @@
-- 👋 Hi, I’m Pablo Chavarria @PabloChM
-- 👀 I’m interested in industrial aplications of Data analysis
-- 🌱 I’m currently learning Data Analysis
-- 💞️ I’m looking to collaborate on Python, SQL
-- 📫 How to reach me: pablocha18@gmail.com
+# 👋 Hi, I’m Pablo Chavarria 
+- 👀 Passionate about data analysis and problem-solving
+- 📊 Currently learning Data Analysis and working on projects
+- 🎓 Starting my Bachelor’s in Computer Science at SNHU in May
+- 📫 Reach me at pablocha18@gmail.com
 
 <!---
 PabloChM/PabloChM is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
