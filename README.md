@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @PabloChM
+- 👋 Hi, I’m Pablo Chavarria @PabloChM
 - 👀 I’m interested in industrial aplications of Data analysis
 - 🌱 I’m currently learning Data Analysis
 - 💞️ I’m looking to collaborate on Python, SQL
