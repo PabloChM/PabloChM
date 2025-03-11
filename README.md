@@ -1,6 +1,7 @@
 # 👋 Hi, I’m Pablo Chavarria 
-- 👀 Passionate about data analysis and problem-solving
-- 📊 Currently learning Data Analysis and working on projects
+- 👀 Passionate about data analysis and version control
+- 📊 Completed a 130-hour Data Analysis bootcamp at UdeA
+- 🛠️ Completed Mouredev's Git & GitHub course
 - 🎓 Starting my Bachelor’s in Computer Science at SNHU in May
 - 📫 Reach me at pablocha18@gmail.com
 
