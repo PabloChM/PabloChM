@@ -2,7 +2,6 @@
 - 👀 Passionate about data analysis and version control
 - 📊 Completed a 130-hour Data Analysis bootcamp at UdeA
 - 🛠️ Completed Mouredev's Git & GitHub course
-- 🎓 Starting my Bachelor’s in Computer Science at SNHU in May
 - 📫 Reach me at pablocha18@gmail.com
 
 <!---
